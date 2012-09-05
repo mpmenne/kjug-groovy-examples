@@ -1,0 +1,7 @@
+here are some groovy examples man.
+
+enjoy.
+
+install groovy from here ... or use homebrew on mac
+
+http://groovy.codehaus.org/Tutorial+1+-+Getting+started
